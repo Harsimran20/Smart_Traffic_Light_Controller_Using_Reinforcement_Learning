@@ -36,6 +36,7 @@ pip install numpy
 Run the simulation:
 
 python traffic_controller.py
+
 📊 How It Works
 Environment: A basic traffic junction with cars arriving in two directions.
 
