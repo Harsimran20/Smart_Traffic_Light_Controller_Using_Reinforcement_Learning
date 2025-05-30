@@ -27,7 +27,7 @@ traffic_rl/
 
 1. Clone the repository:
 2. 
-   git clone https://github.com/your-username/traffic_rl.git
+   git clone repository
    cd traffic_rl
    
 Install dependencies:
