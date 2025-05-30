@@ -12,8 +12,8 @@ This project simulates a smart traffic light control system using **Reinforcemen
 ## 📁 Project Structure
 
 traffic_rl/
-├── traffic_controller.py # Core RL simulation code
-├── README.md # This file
+- ├── traffic_controller.py # Core RL simulation code
+- ├── README.md # This file
 
 
 ## 🚀 Getting Started
